@@ -7,10 +7,10 @@ Computer Science student | Full-stack & Game Developer | Unity & Web Projects
 - Interested in software development, backend APIs, and cloud tech
 
 🔹 Featured Projects
-- Break The Shape – Idle mobile tap game built in Unity (C#) [Link]
-- DSA Visualizer – Spring Boot backend + JS frontend for sorting algorithms [Link]
-- Myrans – Next.js restaurant website with Google Analytics integration [Link]
-- ZPNT / NullFact0r – Apex Legends esports team website [Link]
+- Break The Shape – Idle mobile tap game built in Unity (C#)
+- DSA Visualizer – Spring Boot backend + JS frontend for sorting algorithms 
+- Myrans – Next.js restaurant website with Google Analytics integration 
+- ZPNT / NullFact0r – Apex Legends esports team website 
 
 🔹 Tech Stack
 C#, Java, JavaScript, TypeScript, Unity, Next.js, Spring Boot, SQL, REST APIs, SOAP, OIC
