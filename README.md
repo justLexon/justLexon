@@ -13,7 +13,7 @@ Computer Science student | Full-stack & Game Developer | Unity & Web Projects
 - ZPNT / NullFact0r – Apex Legends esports team website 
 
 🔹 Tech Stack
-C#, Java, JavaScript, TypeScript, Unity, Next.js, Spring Boot, SQL, REST APIs, SOAP, OIC
+C#, Java, JavaScript, TypeScript, Unity, Next.js, Spring Boot, SQL, REST APIs
 
 🔹 Fun Facts
 - NASA HUNCH software finalist – simulated lunar-to-Earth communication
